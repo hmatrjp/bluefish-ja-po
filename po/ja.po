@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Bluefish 1.0.5rc3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-01-25 17:54+0900\n"
-"PO-Revision-Date: 2006-01-25 18:03+0900\n"
+"PO-Revision-Date: 2006-05-06 23:59+0900\n"
 "Last-Translator: Takeshi HAMASAKI <hma@syd.odn.ne.jp>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -362,11 +362,11 @@ msgstr ""
 
 #: ../src/bfspell.c:387
 msgid "Check Spelling"
-msgstr "スペルをチェック中"
+msgstr "スペルチェック"
 
 #: ../src/bfspell.c:391
 msgid "Checking"
-msgstr "チェック中"
+msgstr "チェック"
 
 #: ../src/bfspell.c:400
 msgid "_Misspelled word:"
@@ -546,7 +546,7 @@ msgstr "本当に %s を削除してよろしいですか?"
 
 #: ../src/bookmark.c:645
 msgid "Delete permanent bookmark."
-msgstr "永続ブックマークを削除します."
+msgstr "恒久ブックマークを削除します."
 
 #: ../src/bookmark.c:662
 msgid "Edit bookmark"
@@ -566,7 +566,7 @@ msgstr "削除"
 
 #: ../src/bookmark.c:694
 msgid "Delete all in document"
-msgstr "開いている文書内に全て削除"
+msgstr "この文書内のブックマークを全て削除"
 
 #: ../src/bookmark.c:699
 msgid "Delete all"
