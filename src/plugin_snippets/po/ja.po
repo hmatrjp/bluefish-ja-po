@@ -3,141 +3,141 @@
 # Iwasa Kazmi <kzmi@ca2.so-net.ne.jp>, 2000.
 # Ryoichi INAGAKI <ryo1@bc.wakwak.com>, 2003.
 # Timothy Joko-Veltman <tim-oss@indigopixel.com>, 2004
-# Takeshi HAMASAKI <hmatrjp@users.sourceforge.jp>, 2005-2011
+# Takeshi HAMASAKI <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>, 2005-2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Bluefish 2.2.4\n"
+"Project-Id-Version: Bluefish 2.2.17\n"
 "Report-Msgid-Bugs-To: bluefish-dev@lists.ems.ru\n"
-"POT-Creation-Date: 2020-11-05 21:54+0100\n"
-"PO-Revision-Date: 2012-12-17 23:40+0900\n"
-"Last-Translator: Takeshi Hamasaki <hmatrjp@users.sourceforge.jp>\n"
+"POT-Creation-Date: 2026-02-01 12:40+0100\n"
+"PO-Revision-Date: 2025-08-22 22:23+0900\n"
+"Last-Translator: Takeshi Hamasaki <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: /factory/ja-po/bluefish/bluefish\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 3.6\n"
 
-#: src/plugin_snippets/snippets_gui.c:428
+#: src/plugin_snippets/snippets_gui.c:467
 msgid "Click the right mouse button to add, edit or delete snippets."
 msgstr ""
 "マウスの右ボタンをクリックすると、スニペットを追加、編集、削除できます。"
 
-#: src/plugin_snippets/snippets_gui.c:429
+#: src/plugin_snippets/snippets_gui.c:468
 msgid "Use drag and drop to re-order snippets"
 msgstr "ドラッグ&ドロップでスニペットを並べ替える"
 
-#: src/plugin_snippets/snippets_gui.c:430
+#: src/plugin_snippets/snippets_gui.c:469
 msgid "To exchange snippets with others use import or export"
 msgstr ""
 "スニペットを他のものと入れ替えるには、インポートまたはエクスポートを使用して"
 "ください"
 
-#: src/plugin_snippets/snippets_gui.c:650
+#: src/plugin_snippets/snippets_gui.c:689
 msgid "snippets"
 msgstr "スニペット"
 
-#: src/plugin_snippets/snippets_gui.c:713
+#: src/plugin_snippets/snippets_gui.c:752
 msgid "Snippet export filename"
 msgstr "スニペットをエクスポートするファイル名"
 
-#: src/plugin_snippets/snippets_gui.c:751
+#: src/plugin_snippets/snippets_gui.c:790
 msgid "Snippet import filename"
 msgstr "スニペットをインポートするファイル名"
 
-#: src/plugin_snippets/snippets_gui.c:769
+#: src/plugin_snippets/snippets_gui.c:808
 msgid "Set accelerator key"
 msgstr "ショートカットキーを設定"
 
-#: src/plugin_snippets/snippets_gui.c:826
+#: src/plugin_snippets/snippets_gui.c:875
 msgid "Snippets menu"
 msgstr "スニペットメニュー"
 
-#: src/plugin_snippets/snippets_gui.c:827
+#: src/plugin_snippets/snippets_gui.c:876
 msgid "_New Snippet"
 msgstr "新規スニペット(_N)"
 
-#: src/plugin_snippets/snippets_gui.c:827
+#: src/plugin_snippets/snippets_gui.c:876
 #: src/plugin_snippets/snippets_wizard.c:754
 msgid "New snippet"
 msgstr "新規スニペット"
 
-#: src/plugin_snippets/snippets_gui.c:828
+#: src/plugin_snippets/snippets_gui.c:877
 msgid "_Edit Snippet"
 msgstr "スニペットを編集(_E)"
 
-#: src/plugin_snippets/snippets_gui.c:828
+#: src/plugin_snippets/snippets_gui.c:877
 #: src/plugin_snippets/snippets_wizard.c:754
 msgid "Edit snippet"
 msgstr "スニペットを編集する"
 
-#: src/plugin_snippets/snippets_gui.c:829
+#: src/plugin_snippets/snippets_gui.c:878
 msgid "_Delete Snippet"
 msgstr "スニペットを削除(_D)"
 
-#: src/plugin_snippets/snippets_gui.c:829
+#: src/plugin_snippets/snippets_gui.c:878
 msgid "Delete snippet"
 msgstr "スニペットを削除する"
 
-#: src/plugin_snippets/snippets_gui.c:830
+#: src/plugin_snippets/snippets_gui.c:879
 msgid "Delete _Branch"
 msgstr "ブランチを削除(_B)"
 
-#: src/plugin_snippets/snippets_gui.c:830
+#: src/plugin_snippets/snippets_gui.c:879
 msgid "Delete branch"
 msgstr "ブランチを削除"
 
-#: src/plugin_snippets/snippets_gui.c:831
+#: src/plugin_snippets/snippets_gui.c:880
 msgid "Set Snippet _Accelerator"
 msgstr "スニペットのショートカットキーを設定(_A)"
 
-#: src/plugin_snippets/snippets_gui.c:831
+#: src/plugin_snippets/snippets_gui.c:880
 msgid "Set snippet accelerator"
 msgstr "スニペットのショートカットキーを設定する"
 
-#: src/plugin_snippets/snippets_gui.c:833
+#: src/plugin_snippets/snippets_gui.c:882
 msgid "Ex_pand All"
 msgstr "すべて展開(_P)"
 
-#: src/plugin_snippets/snippets_gui.c:833
+#: src/plugin_snippets/snippets_gui.c:882
 msgid "Expand all"
 msgstr "すべて展開"
 
-#: src/plugin_snippets/snippets_gui.c:834
+#: src/plugin_snippets/snippets_gui.c:883
 msgid "_Collapse All"
 msgstr "全て畳む(_C)"
 
-#: src/plugin_snippets/snippets_gui.c:834
+#: src/plugin_snippets/snippets_gui.c:883
 msgid "Collapse all"
 msgstr "全て畳む"
 
-#: src/plugin_snippets/snippets_gui.c:835
+#: src/plugin_snippets/snippets_gui.c:884
 msgid "E_xport"
 msgstr "エクスポート(_X)"
 
-#: src/plugin_snippets/snippets_gui.c:835
+#: src/plugin_snippets/snippets_gui.c:884
 msgid "Export snippets"
 msgstr "スニペットをエクスポートする"
 
-#: src/plugin_snippets/snippets_gui.c:836
+#: src/plugin_snippets/snippets_gui.c:885
 msgid "I_mport"
 msgstr "インポート(_M)"
 
-#: src/plugin_snippets/snippets_gui.c:836
+#: src/plugin_snippets/snippets_gui.c:885
 msgid "Import snippets"
 msgstr "スニペットをインポートする"
 
-#: src/plugin_snippets/snippets_gui.c:840
+#: src/plugin_snippets/snippets_gui.c:889
 msgid "_Show as menu"
 msgstr "メニューに表示(_S)"
 
-#: src/plugin_snippets/snippets_gui.c:840
+#: src/plugin_snippets/snippets_gui.c:889
 msgid "Show snippets menu"
 msgstr "スニペットメニューを表示"
 
-#: src/plugin_snippets/snippets_gui.c:842
+#: src/plugin_snippets/snippets_gui.c:891
 msgid "S_nippets Menu"
 msgstr "スニペットメニュー(_N)"
 
@@ -191,7 +191,7 @@ msgstr ""
 
 #: src/plugin_snippets/snippets_wizard.c:140
 msgid "_Search for: "
-msgstr "検索する単語(_S):"
+msgstr "検索する単語(_S): "
 
 #: src/plugin_snippets/snippets_wizard.c:144
 msgid "Replace _with: "
