@@ -3,15 +3,16 @@
 # Iwasa Kazmi <kzmi@ca2.so-net.ne.jp>, 2000.
 # Ryoichi INAGAKI <ryo1@bc.wakwak.com>, 2003.
 # Timothy Joko-Veltman <tim-oss@indigopixel.com>, 2004
-# Takeshi HAMASAKI <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>, 2005-2025
+# Takeshi HAMASAKI <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>, 2005-2026
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Bluefish 2.2.17\n"
+"Project-Id-Version: Bluefish 2.4.2\n"
 "Report-Msgid-Bugs-To: bluefish-dev@lists.ems.ru\n"
 "POT-Creation-Date: 2026-07-17 15:03+0200\n"
-"PO-Revision-Date: 2025-08-22 22:19+0900\n"
-"Last-Translator: Takeshi Hamasaki <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>\n"
+"PO-Revision-Date: 2026-08-25 12:00+0900\n"
+"Last-Translator: Takeshi Hamasaki "
+"<Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -1652,8 +1653,8 @@ msgstr ""
 "hh - 時(24時間制) (例 10.00pm なら 22)\n"
 "mm - 分 (例 55)\n"
 "ss -　秒 (例 03)\n"
-"TZD - タイムゾーン (Z は ズールー時間, より一般的には グリニッジ標準時 として"
-"知られている時間帯を表します)\n"
+"TZD - タイムゾーン (Z は ズールー時間, より一般的には グリニッジ標準時 とし"
+"て知られている時間帯を表します)\n"
 
 #: src/plugin_htmlbar/html.c:2193
 msgid "_Datetime:"
@@ -2284,7 +2285,7 @@ msgstr "meta タグの著者情報(a_uthor)を自動更新する"
 
 #: src/plugin_htmlbar/prefs.c:119
 msgid "Author name:"
-msgstr ""
+msgstr "著作者名:"
 
 #: src/plugin_htmlbar/prefs.c:122
 msgid "Automatically update _date meta tag"

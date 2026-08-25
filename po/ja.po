@@ -8,10 +8,10 @@
 #: src/xmlstrings.h:1
 msgid ""
 msgstr ""
-"Project-Id-Version: Bluefish 2.4.0\n"
+"Project-Id-Version: Bluefish 2.4.2\n"
 "Report-Msgid-Bugs-To: olivier@bluefish.openoffice.nl\n"
 "POT-Creation-Date: 2026-07-16 09:29+0200\n"
-"PO-Revision-Date: 2026-05-04 23:04+0900\n"
+"PO-Revision-Date: 2026-08-25 12:25+0900\n"
 "Last-Translator: Takeshi Hamasaki <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1905,7 +1905,7 @@ msgstr "コマンドがエラーコードを返しました"
 
 #: src/external_commands.c:837
 msgid "Command returned an error and no data"
-msgstr "コマンドがエラーとなり、データを返しませんでした。"
+msgstr "コマンドの結果がエラーとなり、データを返しませんでした"
 
 #: src/filebrowser2.c:749
 msgid "Set documentroot and webroot"
@@ -2506,7 +2506,7 @@ msgstr "出力パターン#"
 #: src/outputbox.c:486
 #, c-format
 msgid "The command %s exited with error code %d"
-msgstr "コマンド %s が終了しました。エラーコードは %d です。"
+msgstr "コマンド %s が終了しました。エラーコードは %d です"
 
 #: src/outputbox.c:533
 #, c-format
@@ -2709,8 +2709,8 @@ msgstr ""
 "<small><b>入力オプション</b>\n"
 "| で始めると入力を標準入力へ送ることができます\n"
 "%f ローカルファイル名 (ローカルファイルに有効)\n"
-"%i 入力のための一時的なファイル, 文書がローカルにあり変更されていなけれ"
-"ば、%f と同じです\n"
+"%i 入力のための一時的なファイル, 文書がローカルにあり変更されていなければ、"
+"%f と同じです\n"
 "<b>その他のオプション</b>\n"
 "%a このフィルタを使用するときに追加入力する引数%c ファイルが格納されている"
 "ローカルディレクトリ (ローカルファイルに有効)\n"
@@ -2802,8 +2802,8 @@ msgstr ""
 "<small><b>入力オプション</b>\n"
 "| で始めると入力を標準入力へ送ることができます\n"
 "%f ローカルファイル名 (ローカルファイルに有効)\n"
-"%i 入力のための一時的なファイル, 文書がローカルにあり変更されていなけれ"
-"ば、%f と同じです\n"
+"%i 入力のための一時的なファイル, 文書がローカルにあり変更されていなければ、"
+"%f と同じです\n"
 "<b>出力オプション</b>\n"
 "| で終えると出力を標準出力から読み出すことができます\n"
 "%o 出力のための一時的なファイル\n"
@@ -3398,10 +3398,8 @@ msgid "_Limit window title length"
 msgstr "ウィンドウタイトルの長さを制限する(_L)"
 
 #: src/preferences.c:3214
-#, fuzzy
-#| msgid "Font & Colors"
 msgid "Theme, Font & Colors"
-msgstr "フォントと色"
+msgstr "テーマ、フォント、色"
 
 #: src/preferences.c:3220
 msgid "<b>Document tab</b>"
@@ -3448,14 +3446,12 @@ msgid "Document tab _active color:"
 msgstr "タブの色（編集対象）(_A):"
 
 #: src/preferences.c:3267
-#, fuzzy
-#| msgid "<b>Contains</b>"
 msgid "<b>Icon theme</b>"
-msgstr "<b>含む文字列</b>"
+msgstr "<b>アイコンテーマ</b>"
 
 #: src/preferences.c:3272
 msgid "Icon theme name"
-msgstr ""
+msgstr "アイコンテーマの名前"
 
 #. arr = array_from_arglist(_("Java programming"),"1", "java:image:jsp", NULL);
 #. main_v->globses.filefilters = g_list_append(main_v->globses.filefilters, arr);

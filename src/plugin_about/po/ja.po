@@ -3,15 +3,16 @@
 # Iwasa Kazmi <kzmi@ca2.so-net.ne.jp>, 2000.
 # Ryoichi INAGAKI <ryo1@bc.wakwak.com>, 2003.
 # Timothy Joko-Veltman <tim-oss@indigopixel.com>, 2004
-# Takeshi HAMASAKI <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>, 2005-2025
+# Takeshi HAMASAKI <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>, 2005-2026
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Bluefish 2.4.0\n"
+"Project-Id-Version: Bluefish 2.4.2\n"
 "Report-Msgid-Bugs-To: olivier@bluefish.openoffice.nl\n"
 "POT-Creation-Date: 2026-07-16 09:29+0200\n"
-"PO-Revision-Date: 2026-05-04 22:19+0900\n"
-"Last-Translator: Takeshi Hamasaki <Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>\n"
+"PO-Revision-Date: 2026-08-25 11:35+0900\n"
+"Last-Translator: Takeshi Hamasaki "
+"<Takeshi.Ken.Hamasaki+hmatrjp@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +28,8 @@ msgstr "Bluefish へようこそ"
 
 #: src/plugin_about/about.c:82
 msgid ""
-"First time running Bluefish? <b>What should Bluefish look like for you?</b>\n"
+"First time running Bluefish? <b>What should Bluefish look like for you?</"
+"b>\n"
 "You can change this afterwards."
 msgstr ""
 "Bluefish をはじめて実行しましたか? <b>Bluefish のスタイルをどのようにします"
@@ -43,7 +45,8 @@ msgid ""
 "This version of Bluefish was built with:\n"
 "\n"
 msgstr ""
-"このバージョンの Bluefish は次のオプションを使用してコンパイルされています:\n"
+"このバージョンの Bluefish は次のオプションを使用してコンパイルされていま"
+"す:\n"
 "\n"
 
 #: src/plugin_about/about.c:278
@@ -74,8 +77,8 @@ msgid ""
 "Thanks to all who helped make this software available.\n"
 msgstr ""
 "\n"
-"このソフトウェアが使えるものとなるよう協力してくれた、すべての人たちに感謝し"
-"ます.\n"
+"このソフトウェアが使えるものとなるよう協力してくれた、すべての人たちに感謝"
+"します.\n"
 
 #: src/plugin_about/about.c:346
 msgid ""
@@ -83,9 +86,10 @@ msgid ""
 "supporting many programming and markup languages, but focusing on creating "
 "dynamic and interactive websites."
 msgstr ""
-"経験を積んだウェブデザイナーやプログラマーのためのオープンソースなエディタで"
-"す。多くのプログラミング言語やマークアップ言語をサポートしており、ダイナミッ"
-"ク、インタラクティブなウェブサイトを作成する際に、大きな助けとなるでしょう。"
+"経験を積んだウェブデザイナーやプログラマーのためのオープンソースなエディタ"
+"です。多くのプログラミング言語やマークアップ言語をサポートしており、ダイナ"
+"ミック、インタラクティブなウェブサイトを作成する際に、大きな助けとなるで"
+"しょう。"
 
 #. Translators: This is a special message that shouldn't be translated
 #. * literally. It is used in the about box to give credits to
@@ -133,7 +137,7 @@ msgstr "Bluefish について"
 
 #: src/plugin_about/about.c:460
 msgid "Build _Info"
-msgstr "ビルド情報(_I)..."
+msgstr "ビルド情報(_I)"
 
 #: src/plugin_about/about.c:460
 msgid "Build info"
